@@ -5,9 +5,9 @@ import (
 
 	quamina "quamina.net/go/quamina/v2"
 
-	quaminapb "github.com/spenczar/quaminapb"
-	"github.com/spenczar/quaminapb/internal/testproto"
-	"github.com/spenczar/quaminapb/internal/testtracker"
+	quaminapb "github.com/timbray/quaminapb"
+	"github.com/timbray/quaminapb/internal/testproto"
+	"github.com/timbray/quaminapb/internal/testtracker"
 )
 
 // benchEvent is a wire-encoded TestMsg with a mix of scalar, nested, and

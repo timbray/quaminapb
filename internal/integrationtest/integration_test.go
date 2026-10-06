@@ -10,8 +10,8 @@ import (
 
 	quamina "quamina.net/go/quamina/v2"
 
-	quaminapb "github.com/spenczar/quaminapb"
-	"github.com/spenczar/quaminapb/internal/testproto"
+	quaminapb "github.com/timbray/quaminapb"
+	"github.com/timbray/quaminapb/internal/testproto"
 	"google.golang.org/protobuf/proto"
 )
 

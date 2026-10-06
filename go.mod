@@ -1,4 +1,4 @@
-module github.com/spenczar/quaminapb
+module github.com/timbray/quaminapb
 
 go 1.23
 

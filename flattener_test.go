@@ -4,9 +4,9 @@ import (
 	"bytes"
 	"testing"
 
-	quaminapb "github.com/spenczar/quaminapb"
-	"github.com/spenczar/quaminapb/internal/testproto"
-	"github.com/spenczar/quaminapb/internal/testtracker"
+	quaminapb "github.com/timbray/quaminapb"
+	"github.com/timbray/quaminapb/internal/testproto"
+	"github.com/timbray/quaminapb/internal/testtracker"
 	"google.golang.org/protobuf/encoding/protowire"
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/reflect/protoreflect"

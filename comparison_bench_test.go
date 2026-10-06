@@ -7,8 +7,8 @@ import (
 	quamina "quamina.net/go/quamina/v2"
 	"google.golang.org/protobuf/reflect/protoreflect"
 
-	quaminapb "github.com/spenczar/quaminapb"
-	"github.com/spenczar/quaminapb/internal/testproto"
+	quaminapb "github.com/timbray/quaminapb"
+	"github.com/timbray/quaminapb/internal/testproto"
 )
 
 var (
